@@ -1,0 +1,28 @@
+{
+  "name": "react-native-animation-image-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awaisrasool1/animation-image-carousel.git"
+  },
+  "keywords": [
+    "react-native-animation-carousel",
+    "react-native-animation-image-carousel",
+    "animation-carousel-react-native"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Awaisrasool1/animation-image-carousel/issues"
+  },
+  "homepage": "https://github.com/Awaisrasool1/animation-image-carousel#readme"
+}
